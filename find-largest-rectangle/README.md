@@ -11,7 +11,7 @@ The Rectangle class includes default constructors for the rectangle class, which
 and accessor/mutator functions for private length/width variables from the rectangles class. 
 It also calculates area and perimeter using private length/width variables.
 
-The comparator contains logic for comparing two rectangles and returning a bool for if the first rectangle perimeter
+The comparator class contains logic for comparing two rectangles and returning a bool for if the first rectangle perimeter
 is less than the second. This logic is used for returning the largest area and perimeter, because the rectangle
 with the largest perimeter will always have the largest area. 
 
@@ -30,4 +30,6 @@ This program was tested on a MacBook Pro running macOS Monterey version 12.3.
 
 ## How to Compile
 
-Run 'make' using the submitted makefile to compile the program.
+Run 'make' using the submitted makefile to compile the program. 
+
+Or download the full repo, find the "app" file in finder, ctr+click on the file, and click Open.
